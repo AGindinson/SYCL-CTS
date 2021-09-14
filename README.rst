@@ -41,8 +41,7 @@ Building on Linux
 - Run CMake
   - point the source directory to the root of the ``sycl-cts`` folder
   - configure the generator to use makefiles or ninja
-  - set the build directory to a ``build`` folder inside the
-    ``sycl-cts`` folder
+  - set the build directory to a ``build`` folder inside the ``sycl-cts`` folder
   - set the CMake parameters
 - Run make inside the ``build`` folder
 
